@@ -1,6 +1,8 @@
-## Hi there 👋
-- 🔭 I’m currently working on some basic programming projects
-- 🌱 I’m currently learning how GitHub works
-- 🤔 I’m looking for help with anything you think is relevant for me to know about
-- 💬 Ask me about anything
-- 📫 How to reach me: my page and my email
+# 👋 Hey, I'm Gustavo Quintas
+### 🎓 First-Year Computer Engineering Student at ISEP (Porto, Portugal)
+### 🌱 Currently Learning
+- Fundamentals of Programming (Java)
+- Data Structures & Algorithms
+- Digital Logic
+- Version Control with Git & GitHub
+
